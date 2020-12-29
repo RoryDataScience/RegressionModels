@@ -1,1 +1,17 @@
+# Data Wrangling
+pandas==1.1.4
+numpy==1.19.4
+datetime
+# Data Exploration and visualisation
+matplotlib==3.3.2
+seaborn==0.11.0
 
+# Packages available in the environment
+#pip list OR conda list
+# Check package versions
+#import pkg_resources
+#pkg_resources.get_distribution("DateTime").version
+# Package Search
+#python -m pip search "package name"
+# Outdated packages
+#python -m pip list --outdated
