@@ -9,6 +9,7 @@ matplotlib==3.3.2
 seaborn==0.11.0
 sweetviz==2.0.4
 joypy==0.2.4
+GEOS==0.2.2
 
 # Markdown Formatting
 markdown-checklist==0.4.3
