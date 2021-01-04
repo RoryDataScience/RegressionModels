@@ -2,14 +2,13 @@
 # Data Wrangling
 pandas==1.1.4
 numpy==1.19.4
-datetime
+DateTime==4.3
 
 # Data Exploration and visualisation
 matplotlib==3.3.2
 seaborn==0.11.0
 sweetviz==2.0.4
 joypy==0.2.4
-GEOS==0.2.2
 
 # Markdown Formatting
 markdown-checklist==0.4.3
