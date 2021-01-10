@@ -1,5 +1,23 @@
 # RegressionModels
 Data Science Procedures for Regression Models
+There are various kinds of regression techniques available to make predictions. These techniques are mostly driven by three metrics (number of independent variables, type of dependent variables and shape of regression line)
+
+What are the types of Regressions?
+- Linear Regression
+- Logistic Regression
+- Polynomial Regression: In this regression technique, the best fit line is not a straight line. It is rather a curve that fits into the data points.
+- Stepwise Regression:  Basically fits the regression model by adding/dropping co-variates one at a time based on a specified criterion. Forward starts with most significant predictor in the model and adds variable for each step. Backward elimination starts with all predictors in the model and removes the least significant variable for each step
+- Ridge Regression
+- Lasso Regression
+- ElasticNet Regression
+
+Features of Regression Models
+There must be linear relationship between independent and dependent variables
+Multiple regression suffers from multicollinearity, autocorrelation, heteroskedasticity.
+Linear Regression is very sensitive to Outliers. It can terribly affect the regression line and eventually the forecasted values.
+Multicollinearity can increase the variance of the coefficient estimates and make the estimates very sensitive to minor changes in the model. The result is that the coefficient estimates are unstable
+In case of multiple independent variables, we can go with forward selection, backward elimination and step wise approach for selection of most significant independent variables.
+It is generally good to normalise the features for regression - Anything from the Gaussian family will be underpinned by the normality assumption
 
 ## Project Title
 Application of Regression models to predict maximum temperature - Lasso & Ridge Regression
