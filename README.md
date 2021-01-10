@@ -5,8 +5,8 @@ There are various kinds of regression techniques available to make predictions. 
 What are the types of Regressions?
 - Linear Regression
 - Logistic Regression
-- Polynomial Regression: In this regression technique, the best fit line is not a straight line. It is rather a curve that fits into the data points.
-- Stepwise Regression:  Basically fits the regression model by adding/dropping co-variates one at a time based on a specified criterion. Forward starts with most significant predictor in the model and adds variable for each step. Backward elimination starts with all predictors in the model and removes the least significant variable for each step
+- Polynomial Regression
+- Stepwise Regression
 - Ridge Regression
 - Lasso Regression
 - ElasticNet Regression
