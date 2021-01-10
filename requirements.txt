@@ -1,4 +1,4 @@
-# GLM Model Project: 20201222_Generalised_Linear_Models_WeatherWW2
+# GLM Model Project: 20201222_Regularised_Linear_Models_WeatherWW2
 # Data Wrangling
 pandas==1.1.4
 numpy==1.19.4
