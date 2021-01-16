@@ -10,6 +10,7 @@ What are the types of Regressions?
 - Ridge Regression
 - Lasso Regression
 - ElasticNet Regression
+- Robust Regression (Huber & Random Sample Consensus RANSAC & Theil Sen Regression Models)
 
 Features of Regression Models
 There must be linear relationship between independent and dependent variables
