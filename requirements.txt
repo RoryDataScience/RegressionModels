@@ -1,48 +1,32 @@
-# GLM Model Project: 20201222_Regularised_Linear_Models_WeatherWW2
-# install packages
-# !{sys.executable} -m pip install sweetviz
-# !{sys.executable} -m pip install joypy
-
-# Data Folders
-import os
-import sys
-
-# Data Wrangling
-pandas==1.1.4
-numpy==1.19.4
+# Project: 20201222_Regularised_Linear_Models_WeatherWW2
+certifi==2020.12.5
+click==7.1.2
+cycler==0.10.0
 DateTime==4.3
-#import math
-#import statistics
-#import calendar
-#from itertools import combinations
-
-
-# Data Exploration and visualisation
-matplotlib==3.3.2
-seaborn==0.11.0
-sweetviz==2.0.4
+Flask==1.1.2
+importlib-metadata==3.3.0
+importlib-resources==4.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.2
 joypy==0.2.4
-#import plotly.graph_objs as go
-
-# Model Development
-sklearn==0.23.2
-scipy== 1.5.3
-
-# Data Export
-#import pickle
-
-# Markdown Formatting
+kiwisolver==1.3.1
+lxml==4.6.2
+Markdown==3.3.3
 markdown-checklist==0.4.3
-
-# Additional Logic & Support 
-# Packages available in the environment
-#pip list OR conda list
-# Check package versions
-#import pkg_resources
-#pkg_resources.get_distribution("DateTime").version
-# Package Search
-#python -m pip search "package name"
-# Outdated packages
-#python -m pip list --outdated
-
-
+MarkupSafe==1.1.1
+matplotlib==3.3.2
+numpy==1.19.4
+pandas==1.1.4
+Pillow==8.0.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.5
+scipy==1.5.4
+seaborn==0.11.0
+six==1.15.0
+sweetviz==2.0.4
+tqdm==4.55.0
+typing-extensions==3.7.4.3
+Werkzeug==1.0.1
+zipp==3.4.0
+zope.interface==5.2.0
