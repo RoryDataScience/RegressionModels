@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww15660\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 **References** \
+Exploratory Data Analysis \
+https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34 \
+https://medium.com/analytics-vidhya/how-to-plot-data-on-a-world-map-in-python-25cf9733c3dd \
+https://towardsdatascience.com/pandas-profiling-sweetviz-8849704cadd7 \
+https://towardsdatascience.com/ridgeline-plots-the-perfect-way-to-visualize-data-distributions-with-python-de99a5493052 \
+https://towardsdatascience.com/all-you-want-to-know-about-preprocessing-data-preparation-b6c2866071d4 \
+\
+Feature Engineering \
+https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159\
+https://towardsdatascience.com/cyclical-features-encoding-its-about-time-ce23581845ca\
+https://medium.com/@khadijamahanga/using-latitude-and-longitude-data-in-my-machine-learning-problem-541e2651e08c \
+https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972\
+\
+Model Development \
+https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/ \
+https://towardsdatascience.com/feature-engineering-combination-polynomial-features-3caa4c77a755 \
+https://towardsdatascience.com/machine-learning-polynomial-regression-with-python-5328e4e8a386 \
+https://www.dataquest.io/blog/learning-curves-machine-learning/ \
+https://robert-alvarez.github.io/2018-06-04-diagnostic_plots/}
